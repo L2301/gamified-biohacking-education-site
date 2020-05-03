@@ -1,0 +1,84 @@
+html{
+
+	background-color: white;
+	margin: 0px;
+	padding: 0px;}
+
+body{
+	
+	margin: 0px;
+	padding: 0px;}
+
+
+#Forum, #Slack { 
+
+	margin-top: .5%;
+
+}
+
+#Sigil{
+
+	margin-left: 5%;
+	float: left;
+	margin-right: 80%;
+	background-color: transparent;
+	outline-color: transparent;
+	border-color: transparent;
+}
+
+.button {
+ 
+  background-color: rgb(38,33,33);
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 20px;}
+  
+#aboveCanvas{
+
+	position: absolute;}
+
+#topLeft{
+
+	margin-left: 3.9%;
+	position: absolute;
+	float: left;
+	vertical-align: top;
+	overflow: auto;
+	min-height: 300px;
+}
+
+svg{
+
+	min-height: 250px;
+
+}
+
+#bottomLeft{
+
+	margin-left: 3.9%;
+	position: relative;
+	float: left;
+	vertical-align: bottom;
+	margin-top: 20%;
+	overflow: auto;}
+
+#Hex{
+
+	overflow: auto;}
+
+#Left{
+
+	overflow: auto;}
+
+#bulk{
+
+	overflow: auto;}
+
+#right{
+
+	overflow: auto;}

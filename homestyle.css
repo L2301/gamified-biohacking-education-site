@@ -1,0 +1,49 @@
+body {
+	
+	background-color: rgb(21,21,21);
+	background-image: .../assets/bacollage.png;
+	
+}
+
+#container {
+
+	
+	margin: auto-left;
+	margin: auto-right;
+}
+
+#title {
+	
+	line-height: 25px;
+	margin-top: 250px;
+	color: white;
+	text-align: center;
+	margin-bottom: 0px;
+	font-size: 60px;
+	font-family: Avenir Next, Ideal San light, sans serif;
+	
+
+}
+
+
+#buttons {
+	
+	text-align: center;
+	margin-left: 25%;
+	margin-right:25%;
+
+}
+
+.Login, .SignUp {
+
+	font-family: Avenir Next, Ideal San light, sans serif;
+	font: bold;
+	font-size: 25px;
+	margin-bottom: 15px;
+	border-radius: 20px;
+	border: none;
+  	background-color: inherit;
+  	cursor: pointer;
+  	display: inline-block;
+  	color: white;
+}
