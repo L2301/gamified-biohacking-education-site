@@ -897,7 +897,7 @@
           event.pageY < bgeny + bgenh 
         ) {
 
-          alert('hi');
+          window.location.href = "bgen.html";
       }
     });
     //Genetic egineering
@@ -909,7 +909,7 @@
           event.pageY < Geney + Geneh 
         ) {
 
-          alert('hi');
+          window.location.href = "gene.html";
       }
     });
     //Genomics
@@ -921,7 +921,7 @@
           event.pageY < genoy + genoh 
         ) {
 
-          alert('hi');
+          window.location.href = "geno.html";
       }
     });
     //Molecular Genetics
@@ -933,7 +933,7 @@
           event.pageY < molgy + molgh 
         ) {
 
-          alert('hi');
+          window.location.href = "molg.html";
       }
     });
     //Classical Genetics
@@ -945,7 +945,7 @@
           event.pageY < cgeny + cgenh
         ) {
 
-          alert('hi');
+          window.location.href = "cgen.html";
       }
     });
   } 
@@ -983,7 +983,7 @@
         event.pageY > ochey &&
         event.pageY < ochey + ocheh
         ) {
-        alert('ochem');
+        window.location.href= "oche.html";
       }
     });
     //NeuroChemistry
@@ -994,7 +994,7 @@
         event.pageY > neucy && 
         event.pageY < neucy + neuch
         ) {
-        alert('neurochemistry');
+        window.location.href = "neuc.html";
       }
     });
     //Molecular Chemistry
@@ -1005,7 +1005,7 @@
         event.pageY > mchey &&
         event.pageY < mchey + mcheh
         ) {
-        alert('mol chem');
+        window.location.href = "mche.html";
       }
     });
     //Chemical Egineering
@@ -1016,7 +1016,7 @@
         event.pageY > cheey &&
         event.pageY < cheey + cheeh
         ) {
-        alert('chenmical egineering');
+        window.location.href = "chee.html";
       }
     });
     //Biochemistry
@@ -1027,8 +1027,8 @@
         event.pageY > biocy &&
         event.pageY < biocy + bioch
         ) {
-        alert('biochemistry');
-      }
+        window.location.href = "bioc.html";
+        }
     });
     } 
   });
@@ -1068,7 +1068,7 @@
             event.pageY < powey + poweh
         ) {
 
-          alert('power');
+          window.location.href="powe.html";
 
       }
 
@@ -1083,7 +1083,7 @@
             event.pageY < bciry + bcirh 
         ) {
 
-        alert('basic circuitry');
+        window.location.href="bcir.html";
 
       }
 
@@ -1098,7 +1098,7 @@
             event.pageY < elegy + elegh
         ) {
 
-          alert('Electrical Egineering');
+          window.location.href="eleg.html";
 
       }
 
@@ -1113,7 +1113,7 @@
             event.pageY < comey + comeh 
         ) {
 
-        alert('computer egineering');
+        window.location.href="come.html";
 
       }
 
@@ -1128,7 +1128,7 @@
             event.pageY < conty + conth
         ) {
 
-            alert('control');
+            window.location.href="cont.html";
 
       }
 
@@ -1169,7 +1169,7 @@
             event.pageY < smaiy + smaih
         ) {
 
-        alert('software maintence');
+        window.location.href = "smai.hmtl";
 
       }
 
@@ -1183,7 +1183,7 @@
             event.pageY < comsy +comsh
         ) {
 
-        alert('compsci');
+        window.location.href = "coms.html";
 
       }
 
@@ -1197,7 +1197,7 @@
             event.pageY < bioiy + bioih
         ) {
 
-          alert('bioinformatics');
+          window.location.href = "bioi.html";
 
       }
 
@@ -1211,7 +1211,7 @@
             event.pageY < progy + progh
         ) {
 
-        alert('programming');
+        window.location.href = "prog.html";
 
       }
 
@@ -1225,7 +1225,7 @@
             event.pageY < sofcy + sofch
         ) {
 
-        alert('software construction');
+        window.location.href = "sofc.html";
 
       }
 
