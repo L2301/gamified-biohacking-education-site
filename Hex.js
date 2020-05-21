@@ -1266,7 +1266,7 @@
             event.pageY < uxuiy + uxuih
         ) {
 
-        alert('ui n ux');
+        window.location.href = "uxui.html";
 
       }
 
@@ -1280,7 +1280,7 @@
             event.pageY < ergdy + ergdh
         ) {
 
-        alert('ergonomic design');
+        window.location.href = "ergd.html";
 
       }
 
@@ -1294,7 +1294,7 @@
             event.pageY < intdy + intdh
         ) {
 
-        alert('Interaction design');
+        window.location.href = "intd.html";
 
       }
 
@@ -1308,7 +1308,7 @@
             event.pageY < biody + biodh
         ) {
 
-        alert('biodesign');
+        window.location.href = "biod.html";
 
       }
 
@@ -1322,7 +1322,7 @@
             event.pageY < sysdy +sysdh
         ) {
 
-        alert('Systems design');
+        window.location.href = "sysd.html";
 
       }
 
