@@ -784,7 +784,7 @@
         
         {
 
-          window.location.href="microbiology.html";
+          window.location.href="file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/biology/microbiology.html";
 
         }
       });};
@@ -799,7 +799,7 @@
             event.pageY < anaty + anath
           )
           {
-            window.location.href="anatomy.html";
+            window.location.href="file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/biology/anatomy.html";
           }
       });
 
@@ -812,7 +812,7 @@
             event.pageY > neury &&
             event.pageY < neury + neurh
           ) {
-          window.location.href="neurobiology.html";
+          window.location.href="file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/biology/neurobiology.html";
         }
       });
 
@@ -825,7 +825,7 @@
             event.pageY >  sbioy &&
             event.pageY <  sbioy + sbioh
           ) {
-          window.location.href="sysbio.html";
+          window.location.href="file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/biology/sysbio.html";
         }
       });
 
@@ -838,7 +838,7 @@
             event.pageY >  bioey &&
             event.pageY <  bioey + bioeh 
           ) {
-          window.location.href="bioe.html";
+          window.location.href="file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/biology/bioe.html";
         }
       });
   }
@@ -897,7 +897,7 @@
           event.pageY < bgeny + bgenh 
         ) {
 
-          window.location.href = "bgen.html";
+          window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/genetics%20and%20genomics/bgen.html";
       }
     });
     //Genetic egineering
@@ -909,7 +909,7 @@
           event.pageY < Geney + Geneh 
         ) {
 
-          window.location.href = "gene.html";
+          window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/genetics%20and%20genomics/gene.html";
       }
     });
     //Genomics
@@ -921,7 +921,7 @@
           event.pageY < genoy + genoh 
         ) {
 
-          window.location.href = "geno.html";
+          window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/genetics%20and%20genomics/geno.html";
       }
     });
     //Molecular Genetics
@@ -933,7 +933,7 @@
           event.pageY < molgy + molgh 
         ) {
 
-          window.location.href = "molg.html";
+          window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/genetics%20and%20genomics/molg.html";
       }
     });
     //Classical Genetics
@@ -945,7 +945,7 @@
           event.pageY < cgeny + cgenh
         ) {
 
-          window.location.href = "cgen.html";
+          window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/genetics%20and%20genomics/cgen.html";
       }
     });
   } 
@@ -983,7 +983,7 @@
         event.pageY > ochey &&
         event.pageY < ochey + ocheh
         ) {
-        window.location.href= "oche.html";
+        window.location.href= "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/chemistry/oche.html";
       }
     });
     //NeuroChemistry
@@ -994,7 +994,7 @@
         event.pageY > neucy && 
         event.pageY < neucy + neuch
         ) {
-        window.location.href = "neuc.html";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/chemistry/neuc.html";
       }
     });
     //Molecular Chemistry
@@ -1005,7 +1005,7 @@
         event.pageY > mchey &&
         event.pageY < mchey + mcheh
         ) {
-        window.location.href = "mche.html";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/chemistry/mche.html";
       }
     });
     //Chemical Egineering
@@ -1016,7 +1016,7 @@
         event.pageY > cheey &&
         event.pageY < cheey + cheeh
         ) {
-        window.location.href = "chee.html";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/chemistry/chee.html";
       }
     });
     //Biochemistry
@@ -1027,7 +1027,7 @@
         event.pageY > biocy &&
         event.pageY < biocy + bioch
         ) {
-        window.location.href = "bioc.html";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/chemistry/bioc.html";
         }
     });
     } 
@@ -1068,7 +1068,7 @@
             event.pageY < powey + poweh
         ) {
 
-          window.location.href="powe.html";
+          window.location.href="file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/Electrical%20Engineering/powe.html";
 
       }
 
@@ -1083,7 +1083,7 @@
             event.pageY < bciry + bcirh 
         ) {
 
-        window.location.href="bcir.html";
+        window.location.href="file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/Electrical%20Engineering/bcir.html";
 
       }
 
@@ -1098,7 +1098,7 @@
             event.pageY < elegy + elegh
         ) {
 
-          window.location.href="eleg.html";
+          window.location.href="file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/Electrical%20Engineering/eleg.html";
 
       }
 
@@ -1113,7 +1113,7 @@
             event.pageY < comey + comeh 
         ) {
 
-        window.location.href="come.html";
+        window.location.href="file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/Electrical%20Engineering/come.html";
 
       }
 
@@ -1128,7 +1128,7 @@
             event.pageY < conty + conth
         ) {
 
-            window.location.href="cont.html";
+            window.location.href="file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/Electrical%20Engineering/cont.html";
 
       }
 
@@ -1169,7 +1169,7 @@
             event.pageY < smaiy + smaih
         ) {
 
-        window.location.href = "smai.hmtl";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/computer%20science/smai.hmtl";
 
       }
 
@@ -1183,7 +1183,7 @@
             event.pageY < comsy +comsh
         ) {
 
-        window.location.href = "coms.html";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/computer%20science/coms.html";
 
       }
 
@@ -1197,7 +1197,7 @@
             event.pageY < bioiy + bioih
         ) {
 
-          window.location.href = "bioi.html";
+          window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/computer%20science/bioi.html";
 
       }
 
@@ -1211,7 +1211,7 @@
             event.pageY < progy + progh
         ) {
 
-        window.location.href = "prog.html";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/computer%20science/prog.html";
 
       }
 
@@ -1225,7 +1225,7 @@
             event.pageY < sofcy + sofch
         ) {
 
-        window.location.href = "sofc.html";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/computer%20science/sofc.html";
 
       }
 
@@ -1266,7 +1266,7 @@
             event.pageY < uxuiy + uxuih
         ) {
 
-        window.location.href = "uxui.html";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/design/uxui.html";
 
       }
 
@@ -1280,7 +1280,7 @@
             event.pageY < ergdy + ergdh
         ) {
 
-        window.location.href = "ergd.html";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/design/ergd.html";
 
       }
 
@@ -1294,7 +1294,7 @@
             event.pageY < intdy + intdh
         ) {
 
-        window.location.href = "intd.html";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/design/intd.html";
 
       }
 
@@ -1308,7 +1308,7 @@
             event.pageY < biody + biodh
         ) {
 
-        window.location.href = "biod.html";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/design/biod.html";
 
       }
 
@@ -1322,7 +1322,7 @@
             event.pageY < sysdy +sysdh
         ) {
 
-        window.location.href = "sysd.html";
+        window.location.href = "file:///Users/master/Documents/GitHub/gamified-biohacking-education-site/hex%20button%20sites/design/sysd.html";
 
       }
 
