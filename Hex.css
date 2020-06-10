@@ -2,17 +2,27 @@ html{
 
 	background-color: white;
 	margin: 0px;
-	padding: 0px;}
+	padding: 0px;
+
+}
 
 body{
 	
 	margin: 0px;
-	padding: 0px;}
+	padding: 0px;
+
+}
 
 
 #Forum, #Slack { 
 
 	margin-top: .5%;
+
+}
+
+#headbuttons{
+
+	margin-bottom: .05%;
 
 }
 
@@ -24,6 +34,7 @@ body{
 	background-color: transparent;
 	outline-color: transparent;
 	border-color: transparent;
+
 }
 
 .button {
@@ -36,11 +47,15 @@ body{
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  border-radius: 20px;}
+  border-radius: 20px;
+
+}
   
 #aboveCanvas{
 
-	position: absolute;}
+	position: absolute;
+
+}
 
 #topLeft{
 
@@ -50,6 +65,7 @@ body{
 	vertical-align: top;
 	overflow: auto;
 	min-height: 300px;
+
 }
 
 svg{
@@ -65,20 +81,30 @@ svg{
 	float: left;
 	vertical-align: bottom;
 	margin-top: 20%;
-	overflow: auto;}
+	overflow: auto;
+
+}
 
 #Hex{
 
-	overflow: auto;}
+	overflow: auto;
+
+}
 
 #Left{
 
-	overflow: auto;}
+	overflow: auto;
+
+}
 
 #bulk{
 
-	overflow: auto;}
+	overflow: auto;
+
+}
 
 #right{
 
-	overflow: auto;}
+	overflow: auto;
+
+}
