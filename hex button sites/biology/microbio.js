@@ -1,3 +1,6 @@
+var counter 
+
+
 function loadtests() {
 
 	document.getElementById('content').innerHTML = `
@@ -14,7 +17,7 @@ function loadtests() {
 	
 	document.getElementById('breakdown').innerHTML = `
 
-	<button id="back"><-</button>
+	<button id="back" onclick="backbutton();"><-</button>
 	<div id="level1c"></div>
 	<div id="level2c"></div>
 	<div id="level3c"></div>
@@ -22,10 +25,11 @@ function loadtests() {
 	<div id="level5c"></div>
 
 	`;
+	counter = "1"
 
 }
 
-function loadlvl1subs (){
+function loadlvl1subs(){
 
 	document.getElementById('levels').innerHTML= `
 
@@ -43,4 +47,36 @@ function loadlvl1subs (){
 	<div id="lvl1subc">Cellular Anatomy</div>
 	
 	`
+	counter = "11"
+}
+
+function backbutton(){
+
+	if (counter.length = 1) {
+		document.getElementById('bottom').innerHTML= `
+				
+				<div id="breakdown">
+
+					<button id="back" onclick="backbutton();"><-</button>
+					<p id="sidebar">filler</p>
+
+				</div>
+
+				<div id="content">
+					
+					<div id="test">
+
+						<button id="testbutton" onclick="loadtests();">Test</button>
+						
+					</div>
+
+					<div id="learn">
+					
+						<button id="learnbutton">Learn</button>
+					
+					</div>
+					
+
+				</div>`;
+	}
 }
