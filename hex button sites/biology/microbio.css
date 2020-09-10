@@ -27,7 +27,7 @@ html, body{
 
 }
 
-#back{
+#back, #backtop,  #backlvl1{
 
 	margin:10px;
 	background-color: rgb(38,33,33);

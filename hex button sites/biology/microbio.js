@@ -17,7 +17,7 @@ function loadtests() {
 	
 	document.getElementById('breakdown').innerHTML = `
 
-	<button id="back" onclick="backbutton();"><-</button>
+	<button id="back" onclick="backbutton1();"><-</button>
 	<div id="level1c"></div>
 	<div id="level2c"></div>
 	<div id="level3c"></div>
@@ -41,16 +41,17 @@ function loadlvl1subs(){
 	`
 	document.getElementById('breakdown').innerHTML= `
 
-	<button id="back"><-</button>
+	<button id="backlvl1" onclick="loadtests();"><-</button>
 	<div id="lvl1subc">Taxonomy</div>
 	<div id="lvl1subc">Germ Theory</div>
 	<div id="lvl1subc">Cellular Anatomy</div>
 	
 	`
 	counter = "11"
+
 }
 
-function backbutton(){
+function backbutton1(){
 
 	if (counter.length = 1) {
 		document.getElementById('bottom').innerHTML= `
